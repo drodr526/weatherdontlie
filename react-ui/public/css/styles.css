@@ -1,0 +1,42 @@
+body{
+  background-color: #080808;
+  color: white;
+  text-align: center;
+  font-family: Oswald;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+p
+{
+  font-family: Oswald;
+  font-size: 2rem;
+}
+
+.logo{
+  font-family: Rajdhani;
+  font-weight: 700;
+  font-size: 6rem;
+}
+
+.teamNameBig{
+  font-family: Rajdhani;
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+.teamLink:hover{
+  cursor: pointer;
+  color: grey;
+}
+
+.temperatureNumber{
+  font-size: 5rem;
+}
+
+.weatherTable{
+  margin-left: auto;
+  margin-right: auto;
+}

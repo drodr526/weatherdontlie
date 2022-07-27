@@ -1,0 +1,17 @@
+{
+  "name": "rs_challenge",
+  "description": "RealSynch Developer Challenge",
+  "scripts": {},
+  "env": {},
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
